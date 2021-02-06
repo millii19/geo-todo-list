@@ -1,0 +1,12 @@
+{
+  "name": "GeoTodoList",
+  "displayName": "GeoTodoList",
+  "expo": {
+    "name": "GeoTodoList",
+    "slug": "GeoTodoList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
